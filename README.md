@@ -1,18 +1,17 @@
 # 0ad-mods
 My 0ad mods for the game 0A.D.
-Game official site: https://play0ad.com/
+Game official site: <a href="https://play0ad.com" target="_blank">0 A.D. Official Site</a>
 
-My 0ad mods official site: https://furadeirasoftware.com/faces/jsf0ad.xhtml
+My 0ad mods official site: <a href="https://furadeirasoftware.com/faces/jsf0ad.xhtml" target="_blank">FuradeiraSoftware 0ad Mods Official Site</a>
 
-
-My Youtube Channel with 0ad mods scenario videos: https://www.youtube.com/channel/UCJ_3FPQgTq5b66esOQ_bPnA
+My Youtube Channel with 0ad mods scenario videos: <a href="https://www.youtube.com/channel/UCJ_3FPQgTq5b66esOQ_bPnA" target="_blank">My Youtube Channel</a>
 
 Here some scenarios I've created:
 
 # 1- Scenarios
 ## 1.1- Noronha
 Before the conquer of America, in 0A.D., some civilization came to Noronha in the way to the land. They setted there and soon found that island as a small place for everybody.
-https://www.youtube.com/watch?v=LlcLnXRP1r8&list=PLb004JQ9WdhBg8ZzHW62m98YM0XFqFMcD&index=1
+<a href="https://www.youtube.com/watch?v=LlcLnXRP1r8&list=PLb004JQ9WdhBg8ZzHW62m98YM0XFqFMcD&index=1" target="_blank">Noronha Scenario Video</a>
 
 ## 1.2- Rio
 After Noronha, they came to Rio. In this place, their ambitions succumbed to natural threats. Bones can tell us the history.
@@ -26,14 +25,14 @@ In 0A.D. Hunga, a Tonga archipelago island was an active volcano. The island des
 ## 1.5- Napata War
 Original Napata War scenario from the 0A.D. game is alpha 25 version modified.
 Introduced some civilizations into the scenario. Modified the Jebel Barcal montain making it accessible from the ground.
-https://www.youtube.com/watch?v=XR9oCshfd98
+<a href="https://www.youtube.com/watch?v=XR9oCshfd98" target="_blank">Napata War Scenario Video</a>
 
 ## 1.6- Napata Island
 Somewhere in time, Jebel Barcal montain turned into an island in a big ocean created by the unstopable rain. When dry days came the water started to decrease its level and the scenario turned big and desert.
 
 # 2- How to use this
 ## 2.1- Install 0A.D. Game if you don't have it yet
-https://play0ad.com/
+<a href="https://play0ad.com/" target="_blank">Play 0 A.D. Official Site</a>
 ## 2.2- Download these mod folders (Rio and PunicWar) and copy them to the game's mods folder
 ### For Linux users
 Copy the mods folders to ~/.local/share/0ad/mods/
