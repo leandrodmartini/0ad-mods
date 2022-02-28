@@ -3,6 +3,7 @@ My 0ad mods for the game 0A.D.
 Game official site: https://play0ad.com/
 
 My 0ad mods official site: https://furadeirasoftware.com/faces/jsf0ad.xhtml
+My Youtube Channel with 0ad mods scenario videos: https://www.youtube.com/channel/UCJ_3FPQgTq5b66esOQ_bPnA
 
 Here some scenarios I've created:
 
