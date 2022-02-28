@@ -24,3 +24,18 @@ Introduced some civilizations into the scenario. Modified the Jebel Barcal monta
 
 ## 6- Napata Island
 Somewhere in time, Jebel Barcal montain turned into an island in a big ocean created by the unstopable rain. When dry days came the water started to decrease its level and the scenario turned big and desert.
+
+#How to use this
+## 1- Install 0A.D. Game if you don't have it yet
+https://play0ad.com/
+## 2- Download these mod folders (Rio and PunicWar) and copy them to the game's mods folder
+### For Linux users
+Copy the mods folders to ~/.local/share/0ad/mods/
+### For Windows users
+Copy the mods folders to C:\Users\{name_of_user}\Documents\My Games\0ad\mods\
+### For OSX users
+Copy the mods folders to ~/Library/Application﻿ Support/0ad/mods/
+
+Open 0A.D. game and you can find the scenarios in the scenarios catalog.
+Search for Rio, Noronha, Napata War, Napata Island, Hunga Tonga Island, PunicWar
+
