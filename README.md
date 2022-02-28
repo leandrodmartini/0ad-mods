@@ -12,6 +12,7 @@ Here some scenarios I've created:
 # 1- Scenarios
 ## 1.1- Noronha
 Before the conquer of America, in 0A.D., some civilization came to Noronha in the way to the land. They setted there and soon found that island as a small place for everybody.
+https://www.youtube.com/watch?v=LlcLnXRP1r8&list=PLb004JQ9WdhBg8ZzHW62m98YM0XFqFMcD&index=1
 
 ## 1.2- Rio
 After Noronha, they came to Rio. In this place, their ambitions succumbed to natural threats. Bones can tell us the history.
@@ -25,6 +26,7 @@ In 0A.D. Hunga, a Tonga archipelago island was an active volcano. The island des
 ## 1.5- Napata War
 Original Napata War scenario from the 0A.D. game is alpha 25 version modified.
 Introduced some civilizations into the scenario. Modified the Jebel Barcal montain making it accessible from the ground.
+https://www.youtube.com/watch?v=XR9oCshfd98
 
 ## 1.6- Napata Island
 Somewhere in time, Jebel Barcal montain turned into an island in a big ocean created by the unstopable rain. When dry days came the water started to decrease its level and the scenario turned big and desert.
