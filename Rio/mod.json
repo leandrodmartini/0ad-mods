@@ -1,0 +1,9 @@
+{
+  "name": "Rio",
+  "label": "Rio de Janeiro 0ad",
+  "version": "0.1",
+  "url": "",
+  "description": "Fiction Story - some civilizations came to South America 1500 years before we think. Due to extreme conflicts they succumbed in war to the natural forces of foreign land. A mod by Leandro Ribeiro Demartini from FuradeiraSoftware",
+  "dependencies": [ "0ad=0.0.25" ],
+  "type": "Factions"
+}
