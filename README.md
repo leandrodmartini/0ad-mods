@@ -35,11 +35,11 @@ Somewhere in time, Jebel Barcal montain turned into an island in a big ocean cre
 <a href="https://play0ad.com/" target="_blank">Play 0 A.D. Official Site</a>
 ## 2.2- Download these mod folders (Rio and PunicWar) and copy them to the game's mods folder
 ### For Linux users
-Copy the mods folders to ~/.local/share/0ad/mods/
+Copy the mod's folders to ~/.local/share/0ad/mods/
 ### For Windows users
-Copy the mods folders to C:\Users\{name_of_user}\Documents\My Games\0ad\mods\
+Copy the mod's folders to C:\Users\{name_of_user}\Documents\My Games\0ad\mods\
 ### For OSX users
-Copy the mods folders to ~/Library/Application﻿ Support/0ad/mods/
+Copy the mod's folders to ~/Library/Application﻿ Support/0ad/mods/
 ## 2.4 Open the game and find the scenarios
 Open 0A.D. game and you can find the scenarios in the scenarios catalog.
 Search for Rio, Noronha, Napata War, Napata Island, Hunga Tonga Island, PunicWar
