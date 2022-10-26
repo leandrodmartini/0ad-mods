@@ -4,6 +4,6 @@
   "version": "0.1",
   "url": "https://furadeirasoftware.com",
   "description": "Fiction Stories. Some scenarios to connect to one story. Rio - some civilizations came to South America 1500 years before we think. Due to extreme conflicts they succumbed in war to the natural forces of foreign land. A mod by Leandro Ribeiro Demartini from FuradeiraSoftware",
-  "dependencies": [ "0ad=0.0.25" ],
+  "dependencies": [ "0ad>=0.0.25" ],
   "type": "Factions"
 }

@@ -32,8 +32,8 @@
 		</Postproc>
 	</Environment>
 	<Camera>
-		<Position x="1815.27" y="268.948" z="1058.72"/>
-		<Rotation angle="-0.795151"/>
+		<Position x="341.803" y="370.752" z="1269.31"/>
+		<Rotation angle="-3.10604"/>
 		<Declination angle="0.610865"/>
 	</Camera>
 	<ScriptSettings><![CDATA[
@@ -45,7 +45,6 @@
   "LockTeams": false,
   "Name": "Hunga-Tonga Island",
   "PlayerData": [
-    null,
     {
       "Civ": "athen",
       "Resources": {
@@ -76,7 +75,7 @@
     {
       "Civ": "iber",
       "Resources": {
-        "food": 50000,
+        "food": 200000,
         "metal": 50000,
         "stone": 50000,
         "wood": 50000
@@ -85,7 +84,7 @@
     {
       "Civ": "mace",
       "Resources": {
-        "food": 50000,
+        "food": 200000,
         "metal": 50000,
         "stone": 50000,
         "wood": 50000
@@ -94,7 +93,7 @@
     {
       "Civ": "pers",
       "Resources": {
-        "food": 50000,
+        "food": 200000,
         "metal": 50000,
         "stone": 50000,
         "wood": 50000
@@ -103,7 +102,7 @@
     {
       "Civ": "rome",
       "Resources": {
-        "food": 50000,
+        "food": 200000,
         "metal": 50000,
         "stone": 50000,
         "wood": 50000
