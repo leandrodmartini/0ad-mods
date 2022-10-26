@@ -40,7 +40,9 @@ Copy the mod's folders to ~/.local/share/0ad/mods/
 Copy the mod's folders to C:\Users\{name_of_user}\Documents\My Games\0ad\mods\
 ### For OSX users
 Copy the mod's folders to ~/Library/Application﻿ Support/0ad/mods/
-## 2.4 Open the game and find the scenarios
+## 2.4 Enable the scenario through the menu Configuration -> Mods
+Find FuraGames mod and enable it. Click on Save and Restart
+## 2.5 Open the game and find the scenarios
 Open 0A.D. game and you can find the scenarios in the scenarios catalog.
 Search for Rio, Noronha, Napata War, Napata Island, Hunga Tonga Island, PunicWar
 
