@@ -4,6 +4,6 @@
   "version": "0.1",
   "url": "",
   "description": "Scenario related to Public Wars.",
-  "dependencies": [ "0ad=0.0.25" ],
+  "dependencies": [ "0ad>=0.0.25" ],
   "type": "Factions"
 }
